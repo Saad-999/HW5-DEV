@@ -1,0 +1,1 @@
+nc -vz mydd.cpcimawiv5zb.us-east-1.rds.amazonaws.com 3306
